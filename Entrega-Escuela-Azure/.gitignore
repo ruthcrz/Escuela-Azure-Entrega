@@ -1,0 +1,26 @@
+# Java / Maven
+**/target/
+*.class
+*.war
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.jks
+
+# Server / local runtime
+.smarttomcat/
+logs/
+*.log
+.DS_Store
+Thumbs.db

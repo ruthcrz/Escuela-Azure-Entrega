@@ -1,0 +1,5 @@
+<%@ page contentType="text/html;charset=UTF-8" %>
+<!doctype html><html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Sistema ESCUELA</title><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"></head>
+<body class="bg-light"><main class="container py-5"><div class="p-4 p-md-5 bg-white rounded-3 shadow-sm"><h1 class="mb-2">Sistema de Control Escolar</h1><p class="text-secondary">Administración de los catálogos de ESCUELA</p><div class="d-flex flex-wrap gap-2 mt-4">
+<a href="Alumnos.jsp" class="btn btn-primary">Alumnos</a><a href="AlumnoMaterias.jsp" class="btn btn-primary">Alumno - Materia</a><a href="Materias.jsp" class="btn btn-primary">Materias</a><a href="Profesores.jsp" class="btn btn-primary">Profesores</a><a href="ProfesorMaterias.jsp" class="btn btn-primary">Profesor - Materia</a>
+</div></div></main></body></html>
